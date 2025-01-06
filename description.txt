@@ -1,4 +1,0 @@
-Maja Wasielewska
-https://github.com/majawasielewska/SNARS_P10
-D2-K=7_result.csv, 0.01100301742553711
-D2-UNC_result.csv, 28.77512788772583
